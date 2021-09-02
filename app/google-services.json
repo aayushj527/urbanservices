@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991985880832",
+    "project_id": "urban-com-clone",
+    "storage_bucket": "urban-com-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991985880832:android:381fde15d3ae05edc1ade5",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.urbancompanyclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991985880832-ad5jm5aiiglo9p1bo1k0la86i9vshtdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ6XtlvFT1K5EBS4HaJAADgCpvvaZIqz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991985880832-ad5jm5aiiglo9p1bo1k0la86i9vshtdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
